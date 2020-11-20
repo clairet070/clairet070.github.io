@@ -88,7 +88,7 @@ input, select, textarea {
 
 	body {
 		background: #f5f7fa;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family:"Courier New", Courier, monospace;
 		font-weight: 300;
 		color: #52575c;
 		line-height: 1.75em;
@@ -145,7 +145,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #f35858;
+			color: #cc6666;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -220,7 +220,7 @@ input, select, textarea {
 
 		header > p {
 			display: block;
-			color: #f35858;
+			color: #cc6666;
 			padding: 0.75em 0 1em 0;
 			font-size: 1.5em;
 			line-height: 1.5em;
@@ -2021,7 +2021,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			color: #f35858;
+			color: #cc6666;
 			border-color: rgba(243, 88, 88, 0.5);
 		}
 
@@ -2099,7 +2099,7 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #9DA993 15%, #AEBAA4 55%);
 		background-color: #f08c89;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
@@ -2113,7 +2113,7 @@ input, select, textarea {
 
 	#promo-wrapper {
 		position: relative;
-		background-image: url("images/overlay.png"), url("../../images/promo.jpg");
+		background-image: url("images/overlay.png"), url("../../images/canyon.jpg");
 		background-size: 192px 192px, cover;
 		background-position: top left, center center;
 		color: #fff;
@@ -2241,7 +2241,7 @@ input, select, textarea {
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span {
-				color: #f35858;
+				color: #cc6666;
 			}
 
 		.dropotron.level-0 {
